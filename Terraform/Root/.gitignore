@@ -14,7 +14,7 @@ crash.logs
 .terraform/
 
 # Ignore backup and override files
-*.tfvars*
+*.terraform.tfvars*
 terraform.*
 *.bak
 *.swp
